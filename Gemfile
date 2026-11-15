@@ -49,4 +49,4 @@ end
 
 gem "rails_event_store", "~> 3.2"
 
-gem "rspec-rails", "~> 8.0", groups: [ :development, :test ]
+gem "rspec-rails", "~> 8.1", groups: [ :development, :test ]
